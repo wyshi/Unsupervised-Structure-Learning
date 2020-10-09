@@ -12,7 +12,9 @@ work, please cite the following paper. The bibtex is listed below:
      year={2019}
     }
  
-    
+## pytorch implementation with structured attention
+https://github.com/Liang-Qiu/SVRNN-dialogues
+
             
 ### Requirements
 Listed in the requirements.txt. I was using a pretty old tensorflow version when first developing the project. I think most of the major functions are still supported but haven't tested it on the new versions yet.
